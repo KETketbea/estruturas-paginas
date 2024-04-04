@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400..700&display=swap');
+
+body {
+    font-family: "Edu NSW ACT Foundation";
+    background-color: rgb(230, 255, 245);
+    font-size: 20px;
+    line-height: 120%;
+
+}
+
+h1,
+h2 {
+
+    text-shadow: 2px 3px 4px rgb(60, 95, 63);
+    color: #385e3e;
+}
+
+p.justify {
+    line-height: 50%;
+
+    color: rgb(83, 116, 80);
+    text-align: justify;
+}
+
+p.qq {
+    font-style: italic;
+
+
+}
+
+h2.tt {
+    background-color: #a1cea7;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    background-color: #fcedf5;
+    font-family:'Roboto';
+}
+
+h1 {
+    background-color: rgb(255, 188, 255);
+    color: rgb(255, 110, 236);
+
+}
+
+
+p {
+    color: rgb(255, 134, 225);
+    font-family: "Edu NSW ACT Foundation", cursive;
+}
+
+h2 {
+    background-color:rgb(244, 200, 255) ;
+    color: rgb(226, 110, 255);
+}  
+
+
+
