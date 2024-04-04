@@ -1,0 +1,10 @@
+h1 {
+border-top: 15px  dashed #7272be;
+border-right: 15px dotted rgb(138, 85, 85);
+border-bottom: 15px ridge khaki;
+border-left: 15px double rgb(23, 126, 14);
+}
+
+h2{
+    border: 5px solid rgb(214, 160, 160);
+}
