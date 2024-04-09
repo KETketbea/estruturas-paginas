@@ -1,16 +1,24 @@
 body {
     background-image: url(/fundo-floral-de-design-plano_23-2149252174.avif);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; 
 }
 
-h1{
+h1 {
     color: rgb(88, 43, 71);
 }
-p{
+
+p {
     color: rgb(100, 57, 87);
 }
 
 section {
     height: 100vh;
+    display: flex;
+}
+
+figure{ 
+    background-color: rgb(164, 140, 167);
+    text-align: center;
+   
 }
