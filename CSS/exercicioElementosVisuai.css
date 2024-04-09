@@ -1,0 +1,13 @@
+body{
+    background-image:url(/conjunto-de-aquarela-de-vetor-de-folhas-verdes_79020-202.avif);
+
+    background-attachment: scroll;
+}
+h1,h2 {
+color: #1c5711;
+}
+p{
+    text-align: justify;
+    line-height: 100%;
+    color: rgb(2, 49, 16);
+}
